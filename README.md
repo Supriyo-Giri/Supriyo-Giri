@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am  a CSE student in IEM Salt Lake Kolkata<br>I am proficient in MERN stack and have made many projects that are robust and production ready<br>I also have made my portfolio website with MERN stack, live demo: https://supriyo-portfolio.onrender.com/<br>I am currently working on Mincroservices and scalable architecture, using docker, redis and rabbit mq<br>Aspire to create large backend systems<br>My tech stack is: HTML, CSS, JS, REACTjs, NODEjs, EXPRESSjs, MONGOdb, MYSQL<br>
+I’m a Computer Science and Engineering student at IEM Salt Lake, Kolkata, with strong expertise in the MERN stack.<br/> I’ve built multiple robust, production-ready projects and developed my personal portfolio using MERN live link: https://supriyo-portfolio.onrender.com/. <br/>
+
+Currently, I’m focused on microservices and scalable system architecture, working with tools like Docker, Redis, and RabbitMQ. I aspire to design and build large-scale, high-performance backend systems.
+
+Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, MySQL
 
 
 ## 🌐 Socials:
